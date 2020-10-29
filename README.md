@@ -1,7 +1,7 @@
 # Welcome!
 My names Tom, and I work as a Software Engineer and Computer Technician in Higher Education.
 
-My role sees me writinng support tools and websites, but outside of work I also do the odd bit of game development and WoW addon writing.
+My role sees me writing support tools and websites, but outside of work I also do the odd bit of game development and WoW addon writing.
 
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=treed1104&show_icons=true)
 
